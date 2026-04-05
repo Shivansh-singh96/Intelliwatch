@@ -1,0 +1,31 @@
+# Smart Campus Insight System v2.0 — PyQt6 Edition
+# Install with:  pip install -r requirements.txt
+
+# ── GUI ───────────────────────────────────────────────────────────────────────
+PyQt6>=6.5.0
+
+# ── Computer Vision ───────────────────────────────────────────────────────────
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# ── Face Recognition (ONNX — NO TensorFlow required) ─────────────────────────
+insightface>=0.7.3
+onnxruntime>=1.16.0
+
+# ── Security / Auth ───────────────────────────────────────────────────────────
+bcrypt>=4.0.0
+
+# ── Firebase (optional) ───────────────────────────────────────────────────────
+# pyrebase4>=4.7.0
+
+# ── Analytics Dashboard ───────────────────────────────────────────────────────
+dash>=2.14.0
+plotly>=5.17.0
+pandas>=2.0.0
+dash-bootstrap-components>=1.4.0
+
+# ── Audio Alerts ──────────────────────────────────────────────────────────────
+pygame>=2.5.0
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+Pillow>=10.0.0

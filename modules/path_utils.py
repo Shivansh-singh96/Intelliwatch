@@ -1,0 +1,6 @@
+import os
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+def asset_path(*paths):
+    return os.path.join(ROOT, "assets", *paths)

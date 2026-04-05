@@ -1,0 +1,238 @@
+{
+  "users": {
+    "admin-default": {
+      "profile": {
+        "uid": "admin-default",
+        "full_name": "System Administrator",
+        "email": "admin@scis.local",
+        "department": "IT Security",
+        "login_id": "admin",
+        "password": "$2b$12$TvMLxZNIf0keJrcBwmx7Ke7JsnuM.boWnLZPO6L07PwKl4skaNgnO",
+        "role": "admin",
+        "status": "approved",
+        "created_at": 1773139721
+      }
+    },
+    "6348edcd-8e86-4da4-85f5-3b9f3ada71b0": {
+      "profile": {
+        "uid": "6348edcd-8e86-4da4-85f5-3b9f3ada71b0",
+        "full_name": "Shivansh Singh",
+        "email": "shivansh1121q@gmail.com",
+        "department": "Computer Science",
+        "login_id": "0302CS221132",
+        "password": "$2b$12$4QAWQnt4oM9O9lNLW9VTsOCjKO67.CYTPR9737nTxZYQyPqyYUSxa",
+        "role": "user",
+        "status": "approved",
+        "created_at": 1773158707
+      }
+    },
+    "c52c8261-34f7-4215-931a-3e615243c106": {
+      "profile": {
+        "uid": "c52c8261-34f7-4215-931a-3e615243c106",
+        "full_name": "0302CS221101",
+        "email": "0302CS221101@scis.local",
+        "department": "Student",
+        "login_id": "0302CS221101",
+        "password": "$2b$12$EwblKK1ksVrnKNOLEvO1ceTxCxUb6JI6oZer6RVqhFM4h/T0RvxmO",
+        "role": "user",
+        "status": "approved",
+        "created_at": 1773196393
+      }
+    },
+    "e1474f90-c1ea-42ff-9caf-ad9fc2709d32": {
+      "profile": {
+        "uid": "e1474f90-c1ea-42ff-9caf-ad9fc2709d32",
+        "full_name": "0302CS221145",
+        "email": "0302CS221145@scis.local",
+        "department": "Student",
+        "login_id": "0302CS221145",
+        "password": "$2b$12$EwblKK1ksVrnKNOLEvO1ceTxCxUb6JI6oZer6RVqhFM4h/T0RvxmO",
+        "role": "user",
+        "status": "approved",
+        "created_at": 1773196393
+      }
+    },
+    "eed4fb8a-fd89-4341-bcef-ec2362700424": {
+      "profile": {
+        "uid": "eed4fb8a-fd89-4341-bcef-ec2362700424",
+        "full_name": "0302CS221147",
+        "email": "0302CS221147@scis.local",
+        "department": "Student",
+        "login_id": "0302CS221147",
+        "password": "$2b$12$EwblKK1ksVrnKNOLEvO1ceTxCxUb6JI6oZer6RVqhFM4h/T0RvxmO",
+        "role": "user",
+        "status": "approved",
+        "created_at": 1773196393
+      }
+    },
+    "ea9e0973-2bd1-426b-9013-be74643db9a2": {
+      "profile": {
+        "uid": "ea9e0973-2bd1-426b-9013-be74643db9a2",
+        "full_name": "BCA Teacher14022006",
+        "email": "BCA Teacher14022006@scis.local",
+        "department": "Student",
+        "login_id": "BCA Teacher14022006",
+        "password": "$2b$12$EwblKK1ksVrnKNOLEvO1ceTxCxUb6JI6oZer6RVqhFM4h/T0RvxmO",
+        "role": "user",
+        "status": "approved",
+        "created_at": 1773196393
+      }
+    },
+    "088927f4-bacf-40d0-bdd8-33c831dcced2": {
+      "profile": {
+        "uid": "088927f4-bacf-40d0-bdd8-33c831dcced2",
+        "full_name": "Tanishq Nigam",
+        "email": "tanishq@gmail.com",
+        "department": "Computer Science",
+        "login_id": "023cs6969",
+        "password": "$2b$12$WqDrPxVvWe5kCSP9zzCmPOzJvCoScAzUBHQN/jMwt7w1GiAKtTd8e",
+        "role": "user",
+        "status": "approved",
+        "created_at": 1773500010
+      }
+    },
+    "2b50895e-ad97-4d94-bb13-71e115776148": {
+      "profile": {
+        "uid": "2b50895e-ad97-4d94-bb13-71e115776148",
+        "full_name": "Neeraj Sharma",
+        "email": "neerajcsengg@gmail.com",
+        "department": "Computer Science",
+        "login_id": "6264282808",
+        "password": "$2b$12$d9uwYxmqTulfCP5cpLWZqurdMXshSU731jQ1yv7mdpMgqI5KBUbVi",
+        "role": "user",
+        "status": "approved",
+        "created_at": 1773637266
+      }
+    },
+    "f86f3787-1278-45dc-a5f0-08b20d74e140": {
+      "profile": {
+        "uid": "f86f3787-1278-45dc-a5f0-08b20d74e140",
+        "full_name": "Uday Sir",
+        "email": "udaysir@gmail.com",
+        "department": "Computer Science",
+        "login_id": "Teach123456",
+        "password": "$2b$12$liUxYnMKcIIDjUf5gcbXYesMiA6sKPeA4q6CpjIKxaV7lDshtRZNW",
+        "role": "user",
+        "status": "approved",
+        "created_at": 1773640470
+      }
+    },
+    "e0c4712f-cb54-46d2-9ce1-4094f4222695": {
+      "profile": {
+        "uid": "e0c4712f-cb54-46d2-9ce1-4094f4222695",
+        "full_name": "Aditya",
+        "email": "adityasoni420@gmail.com",
+        "department": "Other",
+        "login_id": "0302BA221111",
+        "password": "$2b$12$YZXITXbTyUbUTNAcv2WafOjtaTk/MbKF/eZdhPJdCv2WEle77wGCe",
+        "role": "user",
+        "status": "approved",
+        "created_at": 1773759053
+      }
+    },
+    "64d19003-5fe4-4108-8ce9-2fa20d6bc239": {
+      "profile": {
+        "uid": "64d19003-5fe4-4108-8ce9-2fa20d6bc239",
+        "full_name": "Ayuti Mishra",
+        "email": "aayuti@gmail.com",
+        "department": "Computer Science",
+        "login_id": "0302CS231047",
+        "password": "$2b$12$ZwGVRPIaaxllqOXSLApPMOPprnr7xfDSySdNSx6j7RiflqQkYx94i",
+        "role": "user",
+        "status": "approved",
+        "created_at": 1773817665
+      }
+    },
+    "2b426883-bdc5-4c3a-8e5f-753404093487": {
+      "profile": {
+        "uid": "2b426883-bdc5-4c3a-8e5f-753404093487",
+        "full_name": "Riya Mam",
+        "email": "raiyamam@gmail.com",
+        "department": "Computer Science",
+        "login_id": "Teach123",
+        "password": "$2b$12$u5prWVYdzVRkoODt45nONe1wxLqwkE1tp0uWPYmiu5F917iE7RBri",
+        "role": "user",
+        "status": "approved",
+        "created_at": 1773823483
+      }
+    },
+    "f6e3227e-6dd9-414f-95f4-c85e6ca5a579": {
+      "profile": {
+        "uid": "f6e3227e-6dd9-414f-95f4-c85e6ca5a579",
+        "full_name": "Arav Gautam",
+        "email": "aravgautam91@gmail.com",
+        "department": "Computer Science",
+        "login_id": "0302CS231038",
+        "password": "$2b$12$a86uLKcH4qbptPVDYUJ6UOjU7VaFQs88PRF1SXLBqgKMqDqVwh0Lm",
+        "role": "user",
+        "status": "approved",
+        "created_at": 1774345194
+      }
+    },
+    "41b42b02-67d3-4691-96f2-8ba53565cb0e": {
+      "profile": {
+        "uid": "41b42b02-67d3-4691-96f2-8ba53565cb0e",
+        "full_name": "Diksha singh",
+        "email": "diksha@gmail.com",
+        "department": "Computer Science",
+        "login_id": "0302cs231053",
+        "password": "$2b$12$LdgdR16GH/iINgVGnTVEc.Lb2MscXj./6Kxo6jt0xnS/vivs1V9nC",
+        "role": "user",
+        "status": "approved",
+        "created_at": 1774345355
+      }
+    },
+    "b6265f10-b86d-4836-abb3-b21f6bd29e46": {
+      "profile": {
+        "uid": "b6265f10-b86d-4836-abb3-b21f6bd29e46",
+        "full_name": "Alka Pal",
+        "email": "alkapal9981@gmail.com",
+        "department": "Computer Science",
+        "login_id": "0302CS231018",
+        "password": "$2b$12$.hgA99yWSokRSUXc81FiyeTvvm5/Z3OcZxicbpxFBBIE2oATrqa0W",
+        "role": "user",
+        "status": "approved",
+        "created_at": 1774345475
+      }
+    },
+    "c497ad4a-e1cc-4dd8-94a0-7f2c089c1330": {
+      "profile": {
+        "uid": "c497ad4a-e1cc-4dd8-94a0-7f2c089c1330",
+        "full_name": "Akanksha Kushwaha",
+        "email": "aakankshakushwaha9522@gmail.com",
+        "department": "Computer Science",
+        "login_id": "0302CS231014",
+        "password": "$2b$12$F9UJEQvF.i4mkt8qw7fazuQMQNseRO.LGWsFxwUOJt7l6cz.u0Uri",
+        "role": "user",
+        "status": "approved",
+        "created_at": 1774345633
+      }
+    },
+    "a6b978d2-cd51-497f-9733-b31227a10613": {
+      "profile": {
+        "uid": "a6b978d2-cd51-497f-9733-b31227a10613",
+        "full_name": "Abhas Shrivastava",
+        "email": "abhashshrivastava38@gmail.com",
+        "department": "Computer Science",
+        "login_id": "0302CS231002",
+        "password": "$2b$12$zleoPKnbUmOlDyup2N6/6.dR3p2YY0YpQ.SCzjkYuBIFMPqQPuHLG",
+        "role": "user",
+        "status": "approved",
+        "created_at": 1774346702
+      }
+    },
+    "df98b382-4f9f-4fd8-908a-ad9cc8c43339": {
+      "profile": {
+        "uid": "df98b382-4f9f-4fd8-908a-ad9cc8c43339",
+        "full_name": "Abhay Pandey",
+        "email": "abhaypandey2325@gmail.com",
+        "department": "Computer Science",
+        "login_id": "0302cs231003",
+        "password": "$2b$12$xiA7FnYTAQ8wjC/4AwNmCu5kVVpO7XO.b/A8itwJx1A1QZ0Mye.zS",
+        "role": "user",
+        "status": "approved",
+        "created_at": 1774346807
+      }
+    }
+  }
+}
